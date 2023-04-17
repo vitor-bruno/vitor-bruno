@@ -1,9 +1,8 @@
 ## Olá! Bem vinde ao meu perfil do GitHub
 ### Meu nome é Vitor Bruno
 
-- Sou formado em publicidade pela ESPM, com 5 anos de experiência em agências de marketing digital.
-- Estou em transição para o mercado de tecnologia desde 2021, buscando me profissionalizar como desenvolvedor back-end.
-- Venho dedicando meus estudos principalmente à linguagem **Python** e seu framework **Django**, adquirindo também conhecimentos sólidos em **PostgreSQL**, **Programação Orientada a Objetos** e noções de **Javascript**, **HTML** e **CSS**
+- Atuo profissionalmente no mercado de tecnologia desde 2022, como desenvolvedor back-end.
+- Dedico meus estudos principalmente à linguagem **Python** e seu framework **Django**, adquirindo também conhecimentos sólidos em **PostgreSQL**, **Programação Orientada a Objetos** e noções de **Javascript**, **HTML** e **CSS**
 - Estou aberto a oportunidades profissionais e de colaboração, visando ganhar experiência na área e concretizar meus estudos em projetos reais.
 - Fique à vontade para entrar em contato!
 
